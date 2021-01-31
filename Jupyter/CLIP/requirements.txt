@@ -1,0 +1,8 @@
+ftfy
+ipyplot
+numpy
+pillow
+regex
+requests
+torch
+torchvision
