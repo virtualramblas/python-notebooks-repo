@@ -6,4 +6,4 @@ Jupyter:
 - Semantic search on unseen images with OpenAI's CLIP
   
 Colab:  
-None
+- Training of a Visual Transformer for image classification.
