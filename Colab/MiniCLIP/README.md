@@ -1,0 +1,3 @@
+# MiniCLIP: demo to explore text descriptions and saliency maps for Clip models
+Porting to Colab notebook of a Streamlit [demo](https://github.com/HendrikStrobelt/miniClip) from [Hendrick Strobelt](http://hendrik.strobelt.com/). It uses OpenAI's [CLIP](https://github.com/openai/CLIP), ResNet50, to observe how similar are the embeddings of given descriptions to the image embeddings under the Clip model and what is the salience map when using the text-embeddings of given descriptions as logits for the image model part of Clip.   
+A CPU runtime is enough to run this notebook, but it works with a GPU runtime too.  
