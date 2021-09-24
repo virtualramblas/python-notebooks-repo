@@ -8,4 +8,5 @@ Jupyter:
 Colab:  
 - Training of a Visual Transformer for image classification  
 - MiniCLIP: demo to explore text descriptions and saliency maps for Clip models  
-- DieSitCom: a minimal Streamlit-based DICOM data viewer
+- DieSitCom: a minimal Streamlit-based DICOM data viewer  
+- Evaluation of StyleCariGAN to generate caricatures from input photos  
