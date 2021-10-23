@@ -11,3 +11,4 @@ Colab:
 - DieSitCom: a minimal Streamlit-based DICOM data viewer  
 - Evaluation of StyleCariGAN to generate caricatures from input photos  
 - Unofficial TensorFlow 2.x implementation of low-light image enhancement through TBEFN  
+- Pix2Pix data preparation and training for Satellite-to-Map Image Translation in Keras (TF 2)
