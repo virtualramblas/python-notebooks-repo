@@ -1,0 +1,2 @@
+## Pix2Pix for Satellite-to-Map Image Translation in Keras
+Notebooks for the data preparation and training of a pix2pix GAN [Keras](https://keras.io/) implementation from [Jason Brownlee](https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation/) following [this paper](https://arxiv.org/abs/1611.07004). The official paper implementation is in PyTorch. The purpose of this Keras model is satellite images translation into Google Maps images.
