@@ -13,3 +13,4 @@ Colab:
 - Unofficial TensorFlow 2.x implementation of low-light image enhancement through TBEFN  
 - Pix2Pix data preparation and training for Satellite-to-Map Image Translation in Keras (TF 2)  
 - DriveGAN simulator playground  
+- Monocular Depth Estimation using the Toyota's PackNet-SfM
