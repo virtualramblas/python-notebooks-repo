@@ -15,3 +15,4 @@ Colab:
 - DriveGAN simulator playground  
 - Monocular Depth Estimation using the Toyota's PackNet-SfM  
 - Monocular Depth Estimation and 3D scene reconstruction using the AdelaiDepth toolbox.  
+- Few-shot Adaptation GAN in TensorFlow
