@@ -17,4 +17,5 @@ Colab:
 - Monocular Depth Estimation and 3D scene reconstruction using the AdelaiDepth toolbox.  
 - Few-shot Adaptation GAN in TensorFlow  
 - Zero-Shot image-to-text generation for visual-semantic arithmetic  
-- Image inpainting using GLIDE
+- Image inpainting using GLIDE  
+- Semantic Image Synthesis with SPADE in TensorFlow
