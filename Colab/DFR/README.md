@@ -1,0 +1,4 @@
+# Image Style Transfer with Deep Feature Rotation (DFR)
+A notebook to do image style transfer by using the official [TensorFlow](https://www.tensorflow.org/) 2 implementation of the Deep Feature Rotation (DFR) [paper](https://arxiv.org/abs/2202.04426).  While an official Colab notebook has been provided by the paper authors, this one has been implemented to stay in synch with any original code changes as it starts by cloning the official implementation of the paper from GitHub. Also, the possibility to upload custom content and style images, a form to set up training parameters and code to display the generated images have been provided here.  
+A GPU runtime is needed to execute the code in this notebook.   
+![DFR Architecture](https://github.com/sonnguyen129/deep-feature-rotation/raw/main/doc/model.png)
