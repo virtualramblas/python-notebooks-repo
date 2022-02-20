@@ -19,4 +19,5 @@ Colab:
 - Zero-Shot image-to-text generation for visual-semantic arithmetic  
 - Image inpainting using GLIDE  
 - Semantic Image synthesis with SPADE in TensorFlow  
-- SinGAN: Learning a generative model from a single natural image (PyTorch and TensorFlow 2)
+- SinGAN: Learning a generative model from a single natural image (PyTorch and TensorFlow 2)  
+- Image Style Transfer with Deep Feature Rotation (DFR)
