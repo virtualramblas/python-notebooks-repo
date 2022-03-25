@@ -1,0 +1,4 @@
+# Efficient-GPNN
+A notebook to test the tasks (image reshuffling, retargeting and style transfer) available for the efficient [PyTorch](https://pytorch.org) implementation of the [GPNN](https://arxiv.org/abs/2103.15545) paper.  
+Single image generative models perform synthesis and manipulation tasks by capturing the distribution of patches within a single image. Despite their impressiveness, single image GANs require long training time (usually hours) for each image and each task. They often suffer from artifacts and are prone to optimization issues such as mode collapse. This paper shows that all of these tasks can be performed without any training, within minutes, in a unified, surprisingly simple framework.  
+A GPU runtime is needed to execute the code in this notebook.  
