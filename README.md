@@ -24,3 +24,4 @@ Colab:
 - 2x slow-motion video filtering using FLAVR  
 - Image reshuffling, retargeting and style transfer with Efficient GPNN  
 - Mobile Face Swap (images and videos) on CPU    
+- DRPreter (Drug Response PREdictor and interpreTER) model training and test  
