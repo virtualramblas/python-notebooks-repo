@@ -12,10 +12,10 @@ Source:
 Variations:  
 ![Generated](images/image_variation_example_1.png) ![Generated](images/image_variation_example_2.png)  
 ### Dual-guided generation
-Prompt: Spider man. cyberpunk assassin. blade runner 2 0 4 9 concept painting. epic painting by craig mullins and alphonso mucha. artstationhq. painting with vivid color. ( rb 6 s, cyberpunk 2 0 7 7, matrix )  
-Source: 
+Source:  
 ![Source](images/source_image_0.jpg)  
-Generated: 
+Prompt: Spider man. cyberpunk assassin. blade runner 2 0 4 9 concept painting. epic painting by craig mullins and alphonso mucha. artstationhq. painting with vivid color. ( rb 6 s, cyberpunk 2 0 7 7, matrix )  
+Generated:  
 ![Generated](images/dual_guided_example_2.png)   
   
 Source:  
