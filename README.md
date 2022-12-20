@@ -25,4 +25,5 @@ Colab:
 - Image reshuffling, retargeting and style transfer with Efficient GPNN  
 - Mobile Face Swap (images and videos) on CPU    
 - DRPreter (Drug Response PREdictor and interpreTER) model training and test  
-- Versatile Diffusion text to image, image variation and dual-guided generation.  
+- Versatile Diffusion text to image, image variation and dual-guided generation  
+- Object detection with Vision Transformer for Open-World Localization (OWL-ViT) on CPU  
