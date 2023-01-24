@@ -27,3 +27,4 @@ Colab:
 - DRPreter (Drug Response PREdictor and interpreTER) model training and test  
 - Versatile Diffusion text to image, image variation and dual-guided generation  
 - Object detection with Vision Transformer for Open-World Localization (OWL-ViT) on CPU  
+- Stable Diffusion Image Variations  
