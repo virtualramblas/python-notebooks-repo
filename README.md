@@ -28,3 +28,4 @@ Colab:
 - Versatile Diffusion text to image, image variation and dual-guided generation  
 - Object detection with Vision Transformer for Open-World Localization (OWL-ViT) on CPU  
 - Stable Diffusion Image Variations  
+- Microsoft's BioGPT text generation on CPU  
