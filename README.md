@@ -30,3 +30,4 @@ Colab:
 - Stable Diffusion Image Variations  
 - Microsoft's BioGPT text generation on CPU  
 - C-ChatGPT compilation and inference in Colab  
+- Code generation through ReplitLM  
