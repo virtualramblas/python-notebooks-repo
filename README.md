@@ -31,3 +31,4 @@ Colab:
 - Microsoft's BioGPT text generation on CPU  
 - C-ChatGPT compilation and inference in Colab  
 - Code generation through ReplitLM  
+- Sketch-of-Thought evaluation. 
